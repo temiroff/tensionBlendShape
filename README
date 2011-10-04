@@ -1,0 +1,23 @@
+tensionBlendShape plug-in for Maya.
+
+Copyright (C) 2011 Alex Tyemirov.
+
+This software comes with absolutely no warranty.
+
+You can not modify, redistribute or sell it.
+
+
+installation:
+
+-------------
+
+Copy tensionBlendShape.mll to /maya/20xx/bin/plugin 
+
+Launch Maya, load the plug-in.
+
+
+node IDs (unique, NOT assigned by Alias):
+
+------------------------------------
+
+tensionBlendShape                 0x8001e
